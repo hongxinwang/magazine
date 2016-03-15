@@ -24,7 +24,7 @@ var jshint = require('gulp-jshint'),
     header=require('gulp-header'),
     bundle=require('gulp-browserify'),
     // headerfooter = require('gulp-header-footer'),
-    sass = require('gulp-sass'),
+    // sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer');
 // 备份源码
   //将app/js,app/css,app/html下的文件备份到根目录src文件夹下 
